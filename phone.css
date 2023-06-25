@@ -1,0 +1,35 @@
+@media screen and (max-width:850px) {
+    .title h2 {
+        font-size: 30px;
+        }
+
+    .title .underline {
+        margin-bottom: 10px;
+        }
+
+article {
+    width: 60%;
+    height: 80vh;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+#person_img {
+    width: 90%;
+    margin-bottom: 0px;
+}
+
+    #info {
+        width: 84%;
+        font-family: sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+        .prev-btn,
+        .next-btn {
+            padding: 10px 10px 0 20px;
+            margin-bottom: 0;
+        }
+
+}
